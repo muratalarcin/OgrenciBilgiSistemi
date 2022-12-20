@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "433240549447",
+    "firebase_url": "https://obslogin-53ef2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "obslogin-53ef2",
+    "storage_bucket": "obslogin-53ef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433240549447:android:1955c093e1ed36fc73e962",
+        "android_client_info": {
+          "package_name": "com.alarcin.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433240549447-tsflvha920tmr0vt3l9vfsbquosbsf4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1E9Y45_rD0rG1AkKzsnBPGKnLgDuMZMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433240549447-tsflvha920tmr0vt3l9vfsbquosbsf4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433240549447:android:038d108eba3b302673e962",
+        "android_client_info": {
+          "package_name": "com.alarcin.login3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433240549447-tsflvha920tmr0vt3l9vfsbquosbsf4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1E9Y45_rD0rG1AkKzsnBPGKnLgDuMZMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433240549447-tsflvha920tmr0vt3l9vfsbquosbsf4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433240549447:android:79ad5b98aeb7b8df73e962",
+        "android_client_info": {
+          "package_name": "com.alarcin.login4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433240549447-cuttmqjt3a7fvv2cvqs93sstfvcukof2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alarcin.login4",
+            "certificate_hash": "07397bc84a30998145b8d20a9db22a433c7dd979"
+          }
+        },
+        {
+          "client_id": "433240549447-tsflvha920tmr0vt3l9vfsbquosbsf4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1E9Y45_rD0rG1AkKzsnBPGKnLgDuMZMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433240549447-tsflvha920tmr0vt3l9vfsbquosbsf4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
