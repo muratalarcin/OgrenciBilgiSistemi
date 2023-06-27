@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/firstItem"
+        android:title="Duyuru Sayfası"/>
+    <item
+        android:id="@+id/secondItem"
+        android:title="Aylık Yemek Listesi"/>
+    <item
+        android:id="@+id/thirdItem"
+        android:title="Ders Listesi"/>
+    <item
+        android:id="@+id/fourthItem"
+        android:title="Ders Ekle-Çıkart"/>
+    <item
+        android:id="@+id/fivethItem"
+        android:title="Admin Üye Onayı"/>
+
+</menu>
